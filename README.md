@@ -22,5 +22,4 @@ One of the advantages of this approach is the use of a replay buffer, which stor
 # Grid Model
 
 The Grid model code is proprietary according to my internship administrators, so I am not able to commit it to this repo publicly. I used Jupyter notebooks to help visualize how the grid model is structured.
-![image](https://user-images.githubusercontent.com/114254060/204448927-4710b6f4-8281-4688-9ef4-39bfdba80138.png)
 
